@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "react-bootstrap": "^2.10.4",
+    "react-google-button": "^0.8.0",
+    "react-google-login": "5.2.2",
+    "universal-cookie": "^7.2.0"
+  }
+}
